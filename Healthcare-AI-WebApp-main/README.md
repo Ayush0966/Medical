@@ -2,7 +2,6 @@
 
 ![slide1](https://user-images.githubusercontent.com/83681204/132836093-c80aca67-b58d-420b-8155-23d1e54d46ac.jpg)
 
-## AltairCare app can be accessed [here](https://altaircare.onrender.com)
 
 Artificial intelligence is a rapidly developing field with new improvements that happen every day, it allows the automation and simplification of human activities in different industries like agriculture, Banking and Financial Services, healthcare, travel...
 <br>
@@ -45,10 +44,7 @@ All the datasets used to train the models can be found in the Kaggle website
 <h2> How to run this project : </h2>
 <h3>Clone this repository: </h3>
 
-```sh
-git clone https://github.com/kaymen99/Healthcare-AI-WebApp.git
-cd Healthcare-AI-WebApp
-```
+
 
 <h3>Install requirements (using a virtual environment is preferable): </h3>
 
